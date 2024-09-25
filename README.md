@@ -21,10 +21,9 @@
 ## Getting Started
 To run the project locally, follow these steps:
 1. Clone the repository:
-   ```bash
   -> git clone https://github.com/viscabarcaviscacataluniya/fact-check.git
   -> cd fact-check
 
-2.pip install -r requirements.txt
+2.pip install fact check requirements.txt
 
 3.jupyter notebook
