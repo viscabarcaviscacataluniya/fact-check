@@ -1,4 +1,15 @@
+# Core ML & Data Handling
 pandas
 numpy
 scikit-learn
+
+# Deep Learning
+torch
+transformers
+
+# Visualization (optional but useful for evaluation)
+matplotlib
+seaborn
+
+# Jupyter Notebook
 jupyter
